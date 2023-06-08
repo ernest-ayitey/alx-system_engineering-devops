@@ -1,2 +1,2 @@
-#!/bin/bash
- /tmp/correction/1012450397155255229443320323152786521869_5/205/434688/0x00-shell_basics
+cd alx-system_engineering-devops
+pwd
