@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 751 ollen
+chmod 654 hello ollen
