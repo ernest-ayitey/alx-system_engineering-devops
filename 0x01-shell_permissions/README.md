@@ -1,0 +1,1 @@
+shell permision basics for als student cohort 17
