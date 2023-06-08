@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 654 hello ollen
+chmod u=rwx,go=rx hello ollen
